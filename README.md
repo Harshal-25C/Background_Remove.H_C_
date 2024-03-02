@@ -1,10 +1,13 @@
 # Background_Remove.H_C_
 
+## Getting Started :
+>**Note** : Make sure you have completed the [Python - Environment Setup](https://www.python.org/downloads/) instructions till "Creating a new application" step, before proceeding.
+
 ## Overview :
 This Python script utilizes the `rembg` library to remove backgrounds from images. It provides a simple interface using `easygui` for selecting input and output files.
 
 ## Installation :
-Ensure you have Python installed on your system. Then, install the required libraries:
+Ensure you have Python installed on your system. Then, install the required libraries :
 ```bash
 (1) pip install easygui
 (2) pip install rembg
