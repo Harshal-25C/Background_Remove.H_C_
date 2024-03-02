@@ -21,10 +21,10 @@ Ensure you have Python installed on your system. Then, install the required libr
 ## Example :
 Let's say you have an image `input_image.png` with a background you want to remove. After running the script and selecting `input_image.png` as the input file, you'll get a background-removed version saved as `output_image.png`.
 - I uploaded `lion.jpg` as input :
-![ss1](https://github.com/Harshal-25C/Background_Remove.H_C_/blob/main/lion.jpg)
+-![ss1](https://github.com/Harshal-25C/Background_Remove.H_C_/blob/main/lion.jpg)
 
 - So , I got the Output :
-![ss2](https://github.com/Harshal-25C/Background_Remove.H_C_/blob/main/lion_rembg.png.bmp)
+-![ss2](https://github.com/Harshal-25C/Background_Remove.H_C_/blob/main/lion_rembg.png.bmp)
 
 ## Notes :
 - This script works best with images containing distinct foreground objects against a solid background.
