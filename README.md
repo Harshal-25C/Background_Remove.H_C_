@@ -6,8 +6,8 @@ This Python script utilizes the `rembg` library to remove backgrounds from image
 ## Installation :
 Ensure you have Python installed on your system. Then, install the required libraries:
 ```bash
-- (1) pip install easygui
-- (2) pip install rembg
+(1) pip install easygui
+(2) pip install rembg
 ```
 
 ## Usage :
@@ -24,4 +24,4 @@ Let's say you have an image `input_image.png` with a background you want to remo
 
 ## Contributing :
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-- [ Harshal Choudhary ] - [ harshalchoudhary340@gmail.com ].
+- [ Harshal Choudhary ] - [ `harshalchoudhary340@gmail.com` ].
