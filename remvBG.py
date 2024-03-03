@@ -1,3 +1,7 @@
+# Firstly install two Libraries :
+# (1) pip install easygui
+# (2) pip install rembg 
+
 from rembg import remove
 import easygui
 from PIL import Image
