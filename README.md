@@ -23,7 +23,7 @@ Let's say you have an image `input_image.png` with a background you want to remo
 ## Input : ( I've Select `lion.jpg` as input )
 ![ss1](https://github.com/Harshal-25C/Background_Remove.H_C_/blob/main/lion.jpg)
 
-## Output : ( So , I got the Output `lion_rembg.png` )
+## Output : ( So, I got the Output `lion_rembg.png` )
 ![ss2](https://github.com/Harshal-25C/Background_Remove.H_C_/blob/main/lion_rembg.png.bmp)
 
 ## Notes :
