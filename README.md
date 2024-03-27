@@ -14,6 +14,7 @@ Ensure you have Python installed on your system. Then, install the required libr
 ```
 
 ## Usage :
+
 1. Run the script.
 2. Select the image file you want to process.
 3. Choose where to save the processed image.
